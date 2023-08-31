@@ -1,9 +1,5 @@
 package io.camunda.connector.inbound;
 
-import javax.validation.constraints.Max;
-import javax.validation.constraints.Min;
-import javax.validation.constraints.NotNull;
-
 /**
  * Configuration properties for inbound Connector
  */
