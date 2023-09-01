@@ -42,15 +42,15 @@
       "choices": [
         {
           "name": "Create",
-          "value": "create"
+          "value": "ENTRY_CREATE"
         },
         {
           "name": "Modify",
-          "value": "modify"
+          "value": "ENTRY_MODIFY"
         },
         {
           "name": "Delete",
-          "value": "delete"
+          "value": "ENTRY_DELETE"
         }
       ],
       "binding": {
