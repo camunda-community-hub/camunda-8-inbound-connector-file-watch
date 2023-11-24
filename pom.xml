@@ -22,7 +22,7 @@
     <version.junit-jupiter>5.9.3</version.junit-jupiter>
     <version.mockito>5.4.0</version.mockito>
     <version.slf4j>2.0.7</version.slf4j>
-    <version.jackson>2.15.2</version.jackson>
+    <version.jackson>2.16.0</version.jackson>
 
     <!-- maven plugins -->
     <plugin.version.maven-clean-plugin>3.3.1</plugin.version.maven-clean-plugin>
