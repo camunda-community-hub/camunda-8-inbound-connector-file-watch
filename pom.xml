@@ -15,7 +15,7 @@
 
     <!-- connector SDK version -->
     <version.connector-core>8.4.3</version.connector-core>
-    <version.connector-runtime>8.4.3</version.connector-runtime>
+    <version.connector-runtime>8.5.0</version.connector-runtime>
 
     <!-- external libraries -->
     <version.assertj>3.25.3</version.assertj>
